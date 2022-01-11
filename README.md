@@ -5,3 +5,8 @@ Clone of the popular game 2048. Created in the game engine Unity and coded in c#
 
 ## How to play (MacOS only)
 Download and launch 2048.app
+
+## Instructions
+
+* ```Arrow Keys``` Move/Merge Cells
+* ```ESC``` Quit
